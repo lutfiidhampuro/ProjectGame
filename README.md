@@ -26,19 +26,25 @@ Game tembak-tembakan luar angkasa sederhana berbasis **Python + Pygame**, lengka
 
 ---
 
+## 📁 Struktur Folder
+
 ```
 ProjectGame/
-│
-├── space.py
-├── highscore.txt
-├── Pesawat.png
-├── Musuh.png
-├── Boss.png
-├── Tekan (3).png
-├── bgGame.png
-├── splash.png
-├── icon.ico
-└── README.md
+|
+|-- space.py
+|-- highscore.txt
+|
+|-- Pesawat.png
+|-- Musuh.png
+|-- Boss.png
+|-- Tekan (3).png
+|-- bgGame.png
+|
+|-- splash.png
+|-- icon.ico
+|
+`-- README.md
+
 ```
 
 ---
