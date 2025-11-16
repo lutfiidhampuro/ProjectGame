@@ -26,7 +26,8 @@ Game tembak-tembakan luar angkasa sederhana berbasis **Python + Pygame**, lengka
 
 ---
 
-📁 **ProjectGame/**
+```
+ProjectGame/
 │
 ├── space.py
 ├── highscore.txt
@@ -38,9 +39,7 @@ Game tembak-tembakan luar angkasa sederhana berbasis **Python + Pygame**, lengka
 ├── splash.png
 ├── icon.ico
 └── README.md
-
-
-
+```
 
 ---
 
