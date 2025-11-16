@@ -69,7 +69,7 @@ Pastikan Python 3.10+ sudah terpasang.
 ---
 
 ## 👤 Dibuat oleh
-**Lutfi Dham Puro**  
+**Lutfi Idham Puro**  
 Project latihan Python + Game Development.
 
 ---
